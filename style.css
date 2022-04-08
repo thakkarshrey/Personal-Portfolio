@@ -200,7 +200,7 @@ textarea {
     font-size: 1.1rem;
 }
 
-.about-container {
+#about-container {
     background-color: white;
     float: right;
     height: 85vh;
